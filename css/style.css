@@ -37,7 +37,6 @@ form {
 }*/
 
 input:disabled + .controller {
-	background-color: grey;
 	opacity: 0.5;
 }
 
@@ -49,7 +48,6 @@ input + .controller {
 	border: 2px solid black;
 	border-radius: 5px;
 	padding: 5px;
-
 }
 
 input:focus + .controller {
